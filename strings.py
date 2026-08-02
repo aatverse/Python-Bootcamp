@@ -21,16 +21,9 @@ fruit="banana is a fruit"
 print(fruit.find("a"))
 print(fruit.count("a"))
 
-num=1234
+num=1234  
 print(f"Number {num}")
 
 a=12
 b=27
 print(f"{a} + {b} = {a+b}")
-
-pre="one sentence"
-space1=pre.find(" ")
-rem=pre.slice(0,2)
-print(rem)
-
-
