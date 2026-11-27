@@ -1,3 +1,2 @@
 # Python-Bootcamp
-First step towards becoming an AI Security Engineer - Getting familiar with Python
-
+First step - Getting familiar with Python
